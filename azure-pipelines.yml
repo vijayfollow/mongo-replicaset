@@ -17,4 +17,4 @@ steps:
   displayName: 'docker build'
 
 - script: docker images
-  displayName: 'images list'
+  displayName: 'images list' 
